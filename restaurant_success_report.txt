@@ -1,0 +1,32 @@
+
+    RESTAURANT SUCCESS ANALYSIS - EXECUTIVE SUMMARY
+    
+    📈 OVERALL PERFORMANCE METRICS:
+    • Total restaurants analyzed: 1,000
+    • Successful restaurants: 521
+    • Overall success rate: 52.1%
+    
+    🎯 KEY SUCCESS FACTORS (by importance):
+    
+    1. Customer Rating (Impact: 25.0%)
+    3. Menu Pricing (Impact: 10.9%)
+    
+    🏆 TOP PERFORMING SEGMENTS:
+    • Best location: Suburban (58.1% success rate)
+    • Best cuisine type: Asian (59.4% success rate)
+    
+    💰 FINANCIAL INSIGHTS:
+    • Average successful restaurant menu price: $20.38
+    • Average failed restaurant menu price: $20.80
+    
+    ⭐ CUSTOMER EXPERIENCE:
+    • Average successful restaurant rating: 4.2/5.0
+    • Average failed restaurant rating: 3.7/5.0
+    
+    🎯 ACTIONABLE RECOMMENDATIONS:
+    1. Focus on customer experience - ratings are the #1 success predictor
+    2. Choose location strategically - Suburban shows highest success rates
+    3. Price competitively in the $12-25 range for optimal market positioning
+    4. Invest in online presence - reviews and social media drive success
+    5. Monitor rent-to-capacity ratio - keep under $60 per seat monthly
+    

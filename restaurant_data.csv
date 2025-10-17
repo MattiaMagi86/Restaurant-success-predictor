@@ -1,0 +1,1001 @@
+location,cuisine_type,avg_menu_price,staff_count,seating_capacity,years_open,social_media_followers,online_reviews_count,avg_rating,monthly_rent,rent_per_seat,is_successful
+Suburban,Fast Food,8.5,11,112,7,59,59,5.0,6838.0,61.06,True
+Suburban,Asian,15.37,16,118,1,743,48,4.2,6464.0,54.78,True
+Residential,Asian,20.09,13,68,2,2973,46,4.7,6797.0,99.95,True
+Suburban,Italian,27.26,18,110,4,201,56,4.3,5213.0,47.39,True
+Business District,Asian,25.79,20,44,8,845,50,3.9,8946.0,203.33,False
+Tourist Area,Fast Food,11.07,17,70,13,1620,56,4.8,14794.0,211.34,False
+Downtown,Asian,14.64,20,148,7,1105,53,4.9,16048.0,108.44,True
+Residential,Mediterranean,12.45,9,119,7,1473,50,3.7,7878.0,66.2,True
+Downtown,American,25.84,9,52,7,528,56,2.4,13636.0,262.23,True
+Residential,Mediterranean,20.63,10,57,12,246,48,3.4,7280.0,127.73,False
+Residential,Mexican,11.25,10,101,11,540,44,3.2,8906.0,88.18,False
+Suburban,American,17.17,21,91,1,292,44,3.4,8915.0,97.97,False
+Suburban,Fast Food,8.0,5,30,3,1141,51,3.9,12317.0,410.58,True
+Suburban,Mexican,24.16,10,53,5,1000,53,3.2,6867.0,129.57,True
+Tourist Area,American,23.46,23,49,7,191,54,3.7,9650.0,196.94,False
+Business District,Mexican,19.67,20,119,9,726,60,4.8,5870.0,49.33,True
+Business District,Asian,26.72,20,118,3,3636,45,5.0,3000.0,25.42,False
+Downtown,Italian,19.58,18,50,4,456,55,4.3,7608.0,152.17,True
+Tourist Area,Mexican,25.45,23,83,8,997,57,4.0,11206.0,135.01,True
+Business District,Mexican,37.92,7,93,1,44,45,4.5,4112.0,44.21,False
+Residential,Italian,13.25,5,96,2,813,64,3.5,6232.0,64.92,False
+Residential,Italian,18.77,14,31,10,1350,54,2.9,6124.0,197.56,False
+Business District,Mediterranean,28.27,8,74,4,1049,54,4.7,7369.0,99.59,True
+Downtown,American,30.51,23,54,10,782,45,3.6,18320.0,339.26,True
+Suburban,American,20.75,8,35,13,216,48,3.0,7786.0,222.45,False
+Business District,Mexican,18.68,13,41,5,59,62,3.7,7591.0,185.14,True
+Residential,American,28.67,9,51,13,544,44,4.2,7525.0,147.55,True
+Suburban,Asian,27.36,5,123,5,508,52,3.9,7069.0,57.47,False
+Suburban,Mediterranean,17.02,20,148,2,26,51,4.4,6770.0,45.74,True
+Residential,Asian,28.56,5,69,10,231,45,3.7,7777.0,112.71,False
+Suburban,American,25.77,6,144,9,685,54,3.2,8897.0,61.79,False
+Suburban,American,17.61,7,78,3,532,47,4.4,7596.0,97.38,False
+Suburban,American,15.96,21,142,14,686,48,4.2,8784.0,61.86,True
+Suburban,Asian,17.38,20,146,5,347,46,4.6,9334.0,63.93,True
+Downtown,Asian,25.73,9,64,7,789,54,3.5,14600.0,228.13,False
+Downtown,Asian,25.62,6,34,13,88,47,3.5,19296.0,567.54,True
+Business District,American,26.75,11,96,13,11,49,3.9,10542.0,109.82,False
+Residential,Asian,21.85,21,54,8,751,49,4.0,8778.0,162.56,True
+Downtown,Fast Food,9.61,23,49,9,740,53,4.2,22151.0,452.07,False
+Residential,Italian,14.16,16,103,8,501,40,4.4,5918.0,57.46,True
+Downtown,Mexican,15.92,21,102,1,529,52,3.4,13958.0,136.84,False
+Residential,Italian,21.24,22,138,5,26,47,2.6,10708.0,77.59,False
+Business District,Mediterranean,8.95,5,50,7,2000,58,3.3,5865.0,117.3,False
+Tourist Area,Mexican,22.47,21,133,2,443,40,5.0,12347.0,92.83,True
+Business District,American,27.76,21,141,7,1407,52,4.1,7133.0,50.59,True
+Suburban,American,16.29,19,120,3,2345,47,3.6,10669.0,88.91,False
+Business District,Fast Food,8.0,9,63,6,678,46,4.0,7754.0,123.08,True
+Downtown,Italian,24.67,20,37,4,200,47,5.0,13250.0,358.12,True
+Downtown,Italian,21.49,10,30,5,617,43,3.4,21473.0,715.77,True
+Business District,American,21.81,19,85,14,170,47,4.1,8071.0,94.96,True
+Residential,Mexican,18.96,6,138,10,37,44,5.0,8057.0,58.39,True
+Downtown,Asian,31.98,7,144,9,1337,43,2.8,15144.0,105.17,False
+Suburban,Asian,16.51,8,140,6,883,55,5.0,7224.0,51.6,True
+Tourist Area,American,19.06,17,99,5,2713,47,4.6,12436.0,125.61,True
+Residential,Asian,22.08,6,108,11,847,45,4.5,6871.0,63.62,True
+Suburban,Mexican,12.99,19,30,10,1460,38,3.8,8954.0,298.46,False
+Suburban,Asian,27.99,6,42,8,1660,45,5.0,9060.0,215.7,True
+Suburban,Mexican,25.21,21,98,14,1370,48,4.5,7622.0,77.77,False
+Downtown,American,28.92,7,114,5,1685,53,4.6,17536.0,153.82,True
+Business District,Asian,19.64,18,61,3,978,51,2.5,9994.0,163.83,False
+Suburban,Italian,19.21,10,35,3,988,46,2.8,9019.0,257.68,False
+Business District,American,29.08,10,86,1,1227,56,4.5,6182.0,71.88,True
+Business District,Italian,8.13,17,117,4,506,57,4.5,9514.0,81.32,False
+Tourist Area,American,17.41,8,55,11,913,47,2.7,10185.0,185.18,False
+Residential,Italian,16.66,12,89,11,2689,51,3.6,8434.0,94.76,True
+Tourist Area,American,26.27,23,58,14,2723,63,5.0,13572.0,234.0,True
+Downtown,Mexican,18.12,15,67,2,626,50,2.7,12803.0,191.1,False
+Downtown,American,25.78,24,99,5,2463,47,3.2,16260.0,164.24,False
+Downtown,Asian,43.21,17,123,7,556,57,4.0,22523.0,183.12,True
+Business District,American,18.16,5,107,3,603,50,5.0,3853.0,36.01,True
+Downtown,Mediterranean,31.4,14,112,14,747,48,4.4,11626.0,103.8,True
+Tourist Area,Mexican,19.34,9,96,3,1057,44,4.7,9179.0,95.61,True
+Business District,Asian,15.11,20,111,7,1003,55,4.5,10735.0,96.71,False
+Tourist Area,Mexican,29.63,6,96,7,34,58,3.5,15755.0,164.11,False
+Downtown,Fast Food,9.09,18,116,1,663,50,4.2,11541.0,99.49,True
+Tourist Area,Asian,33.93,17,127,7,1149,57,4.0,16077.0,126.59,True
+Suburban,Asian,15.19,10,120,8,288,53,4.3,10372.0,86.44,True
+Business District,Asian,23.14,6,83,11,203,39,4.7,7751.0,93.38,True
+Tourist Area,Fast Food,10.71,9,85,1,314,51,3.9,12708.0,149.51,False
+Downtown,American,26.83,6,146,9,78,55,3.5,20925.0,143.32,False
+Business District,American,15.07,6,41,3,377,57,4.7,6263.0,152.75,False
+Business District,American,21.87,21,116,5,1178,58,2.8,7884.0,67.97,False
+Residential,Italian,20.15,11,43,5,1313,43,4.2,10714.0,249.16,False
+Downtown,Asian,22.68,14,132,1,1050,47,4.8,14220.0,107.72,True
+Suburban,Asian,24.67,8,122,6,383,53,4.3,5301.0,43.45,True
+Business District,Italian,25.11,17,42,2,2797,47,3.6,3031.0,72.16,False
+Business District,Fast Food,8.0,11,113,5,1317,46,5.0,9334.0,82.61,True
+Residential,Italian,26.07,19,78,9,1138,56,4.8,7572.0,97.08,False
+Suburban,American,23.84,17,139,10,48,48,5.0,9031.0,64.97,True
+Suburban,American,23.97,21,90,11,504,56,4.3,7247.0,80.52,True
+Downtown,Asian,36.03,6,40,9,496,45,5.0,14152.0,353.79,False
+Business District,Mexican,20.47,19,67,8,1189,34,4.7,8072.0,120.47,True
+Tourist Area,Asian,26.06,23,109,8,281,42,4.5,8493.0,77.92,False
+Downtown,American,20.0,11,34,11,3252,49,4.2,13851.0,407.39,True
+Tourist Area,American,18.32,17,75,11,3973,53,3.5,13936.0,185.82,False
+Downtown,American,40.34,14,134,2,418,54,4.9,10705.0,79.88,True
+Tourist Area,Mexican,20.28,22,43,13,590,53,4.1,10113.0,235.18,False
+Suburban,Mediterranean,22.3,15,87,7,590,48,4.4,6996.0,80.41,True
+Downtown,Italian,33.05,7,110,14,163,49,5.0,21048.0,191.34,True
+Suburban,Fast Food,8.0,5,87,12,1288,55,4.3,9380.0,107.81,False
+Suburban,Asian,15.91,12,108,11,1862,56,3.6,8393.0,77.71,False
+Suburban,Italian,21.55,21,137,4,562,43,4.1,6638.0,48.45,True
+Business District,Mexican,19.94,22,123,2,653,52,4.0,9572.0,77.82,False
+Downtown,Asian,28.18,13,46,12,4317,41,5.0,17559.0,381.71,True
+Downtown,Mexican,19.07,17,59,1,1740,47,4.0,17709.0,300.16,True
+Tourist Area,Fast Food,10.8,7,35,9,2752,54,4.7,13906.0,397.3,True
+Business District,Italian,22.29,7,70,12,1315,38,4.8,6697.0,95.67,True
+Downtown,Fast Food,8.73,8,74,8,2054,49,3.0,18714.0,252.9,False
+Suburban,Italian,11.15,19,126,7,621,59,3.6,7034.0,55.82,True
+Suburban,Fast Food,10.35,22,78,3,864,49,4.9,7923.0,101.58,False
+Suburban,Mexican,22.0,16,32,13,627,58,4.1,7047.0,220.23,False
+Tourist Area,Asian,32.42,6,148,5,1926,50,3.9,15187.0,102.62,False
+Suburban,American,16.19,6,64,5,9,52,3.1,5187.0,81.05,True
+Business District,Asian,18.28,20,103,13,410,58,4.5,5216.0,50.64,True
+Downtown,Italian,22.95,21,149,12,591,59,5.0,12541.0,84.17,False
+Downtown,Mexican,25.51,5,148,3,601,63,3.5,14433.0,97.52,True
+Residential,Fast Food,9.03,19,72,2,419,51,4.3,8128.0,112.88,True
+Downtown,American,26.04,10,34,6,294,47,4.5,12539.0,368.8,False
+Business District,Italian,25.31,18,82,5,860,47,4.1,4773.0,58.21,False
+Residential,American,22.66,17,60,9,115,53,3.9,9536.0,158.93,False
+Business District,Mexican,19.68,11,118,5,392,47,4.8,6230.0,52.79,True
+Downtown,Asian,36.07,16,131,10,884,42,4.0,20234.0,154.45,False
+Residential,Mediterranean,12.8,8,44,11,1447,57,4.1,9518.0,216.31,True
+Residential,Italian,19.41,17,115,3,106,50,3.2,5793.0,50.37,False
+Suburban,Mexican,25.57,21,106,4,1732,50,4.6,8659.0,81.69,True
+Suburban,American,19.97,14,85,4,552,47,4.2,12501.0,147.07,False
+Business District,American,18.82,14,101,8,436,44,3.1,9606.0,95.11,False
+Tourist Area,Italian,19.76,8,103,1,551,42,3.9,15280.0,148.35,False
+Downtown,Mexican,20.3,15,39,9,495,52,3.5,11507.0,295.05,False
+Business District,American,31.43,11,53,12,1707,52,4.1,8503.0,160.44,True
+Tourist Area,American,12.43,10,70,7,71,50,3.0,10135.0,144.78,False
+Business District,American,25.81,16,87,3,211,35,2.4,6742.0,77.5,False
+Downtown,Fast Food,13.75,20,135,14,549,57,4.6,5992.0,44.38,True
+Residential,Italian,15.5,24,133,8,776,58,3.4,8451.0,63.54,False
+Downtown,Mediterranean,39.2,18,65,1,257,47,4.8,10007.0,153.95,False
+Business District,Mexican,17.29,8,111,7,176,56,2.4,10437.0,94.02,False
+Suburban,Asian,25.38,14,59,14,1639,57,4.9,7650.0,129.66,True
+Tourist Area,Mexican,18.49,24,111,10,1728,41,4.0,14453.0,130.21,False
+Business District,Italian,8.0,17,146,2,70,46,4.1,6121.0,41.93,False
+Downtown,American,24.19,23,60,3,831,43,5.0,14043.0,234.04,True
+Suburban,Asian,14.45,11,109,12,962,53,4.7,6534.0,59.95,True
+Tourist Area,Mediterranean,24.49,22,92,5,2176,49,3.1,6594.0,71.67,False
+Business District,American,21.42,10,108,5,1428,41,3.9,6012.0,55.66,True
+Suburban,Mediterranean,23.2,8,63,4,279,53,4.8,8642.0,137.18,True
+Residential,Italian,19.46,13,30,2,575,45,3.4,12315.0,410.49,False
+Business District,American,17.97,19,46,12,598,60,4.0,8518.0,185.18,True
+Downtown,American,32.85,7,53,1,3135,55,4.5,10869.0,205.07,False
+Tourist Area,Italian,14.77,15,87,5,797,58,3.4,11566.0,132.94,False
+Business District,American,16.43,13,70,9,755,57,3.3,8114.0,115.91,False
+Business District,Mediterranean,30.18,6,40,10,412,63,3.2,4067.0,101.68,False
+Tourist Area,Fast Food,8.1,23,75,1,1037,45,3.7,11499.0,153.32,False
+Suburban,Mediterranean,25.24,12,139,7,199,35,3.3,9819.0,70.64,False
+Business District,Italian,17.99,22,124,3,163,47,4.2,9607.0,77.47,True
+Downtown,Italian,31.17,11,137,9,1431,42,3.8,11338.0,82.76,False
+Downtown,American,30.24,6,70,13,773,50,5.0,15525.0,221.79,True
+Business District,American,23.52,24,104,3,1844,49,3.8,6117.0,58.82,False
+Business District,Mexican,23.96,12,132,5,29,42,3.3,5111.0,38.72,False
+Suburban,American,9.69,9,109,10,824,51,4.8,9185.0,84.27,True
+Business District,Asian,28.3,10,146,4,728,49,3.5,6566.0,44.98,True
+Downtown,American,12.13,19,104,9,2704,53,5.0,16496.0,158.61,True
+Suburban,Mediterranean,31.19,20,98,9,833,54,2.5,11360.0,115.91,False
+Business District,Italian,26.01,7,75,10,2061,58,3.8,10781.0,143.75,False
+Downtown,Italian,25.01,5,53,9,7,35,5.0,13413.0,253.07,False
+Suburban,Italian,13.0,16,135,14,36,45,3.1,4127.0,30.57,False
+Suburban,Italian,23.27,8,79,1,1477,38,5.0,8703.0,110.16,True
+Business District,Asian,31.74,16,149,14,1312,53,2.9,12830.0,86.1,False
+Tourist Area,Mexican,18.63,11,115,7,787,48,3.4,12718.0,110.59,False
+Downtown,Mediterranean,45.77,14,114,5,2913,58,2.1,10765.0,94.43,False
+Suburban,Italian,24.99,14,128,3,1543,43,4.0,7035.0,54.96,False
+Suburban,Mexican,13.23,19,115,4,2044,44,4.7,7844.0,68.21,True
+Suburban,Italian,23.19,22,72,3,581,43,4.4,7485.0,103.96,False
+Suburban,Mexican,14.35,13,76,14,761,42,3.5,10060.0,132.37,False
+Residential,Mexican,15.27,9,61,12,1716,46,3.6,8680.0,142.3,True
+Residential,Asian,15.29,17,63,4,5835,41,3.6,9117.0,144.72,False
+Residential,Mexican,20.42,10,112,12,377,49,3.8,3756.0,33.54,True
+Business District,Mexican,17.95,20,50,12,1748,39,3.7,6155.0,123.1,False
+Business District,American,12.49,9,137,11,1856,45,5.0,7022.0,51.25,True
+Downtown,American,27.28,10,102,4,257,58,5.0,18045.0,176.91,True
+Suburban,Mexican,20.57,16,46,7,1647,53,4.1,4878.0,106.05,True
+Suburban,Italian,10.86,23,59,14,652,41,4.7,8990.0,152.38,False
+Tourist Area,American,27.1,23,76,4,119,54,5.0,11330.0,149.07,True
+Suburban,Mexican,16.25,15,82,3,256,55,3.7,9589.0,116.94,True
+Residential,American,24.19,20,59,12,874,50,4.1,8695.0,147.37,True
+Downtown,Fast Food,13.34,8,64,1,66,67,3.6,15268.0,238.56,False
+Suburban,Italian,13.07,12,50,3,589,56,3.6,6377.0,127.54,True
+Business District,Fast Food,9.57,16,95,8,917,55,3.5,8389.0,88.31,True
+Suburban,Asian,16.9,12,43,3,593,49,2.3,10318.0,239.95,True
+Business District,Mediterranean,29.02,5,119,7,1622,51,4.3,7639.0,64.19,True
+Downtown,American,22.97,11,84,9,30,54,3.4,17129.0,203.92,True
+Suburban,American,17.56,12,101,13,1251,52,3.6,8294.0,82.11,True
+Downtown,American,20.24,5,65,2,96,52,4.3,13661.0,210.17,True
+Business District,Asian,26.75,13,103,2,2189,52,3.8,7365.0,71.51,False
+Business District,Asian,24.95,16,64,11,665,52,4.7,8320.0,130.0,True
+Business District,American,15.43,15,47,4,1117,45,3.8,10867.0,231.21,False
+Business District,Mediterranean,27.03,12,104,10,462,50,4.6,8898.0,85.55,True
+Business District,Fast Food,8.0,23,58,10,1037,53,3.9,6572.0,113.32,False
+Tourist Area,American,15.38,16,131,1,111,51,3.5,11657.0,88.99,False
+Suburban,Asian,17.21,10,88,13,613,45,4.6,7332.0,83.32,True
+Business District,Fast Food,8.0,20,51,4,3917,49,2.8,6968.0,136.62,False
+Suburban,Mediterranean,19.0,17,80,10,59,47,4.0,8988.0,112.35,True
+Tourist Area,Italian,36.88,15,129,3,1525,55,3.3,15196.0,117.8,False
+Business District,Italian,17.79,9,46,5,783,61,4.9,8196.0,178.17,True
+Business District,Italian,17.61,18,41,6,161,50,4.7,4454.0,108.63,True
+Downtown,American,34.03,19,56,11,2510,47,3.9,17839.0,318.55,True
+Tourist Area,American,22.71,13,101,4,3,53,5.0,9653.0,95.58,True
+Downtown,Fast Food,8.0,20,143,6,1163,55,3.7,11711.0,81.89,True
+Business District,Mexican,27.32,11,59,7,45,47,4.4,8361.0,141.71,False
+Downtown,Asian,26.22,6,75,14,523,48,3.4,13291.0,177.22,False
+Residential,Italian,18.15,20,95,8,119,58,4.5,5668.0,59.66,True
+Tourist Area,Mexican,22.94,6,68,3,1627,63,3.8,13900.0,204.41,True
+Downtown,American,25.62,23,86,9,131,60,4.2,22275.0,259.01,False
+Downtown,American,16.17,18,79,12,267,46,3.2,15004.0,189.92,False
+Business District,Asian,24.94,13,105,1,382,34,4.6,7344.0,69.94,False
+Downtown,Mexican,26.29,15,94,11,315,58,4.2,15097.0,160.61,True
+Residential,Asian,17.67,5,89,11,1859,54,5.0,9100.0,102.25,True
+Suburban,Italian,16.2,8,76,9,353,39,3.6,8280.0,108.94,True
+Residential,Asian,10.78,22,107,3,461,48,2.2,7207.0,67.35,False
+Suburban,Mediterranean,26.54,5,129,13,1402,63,4.1,7320.0,56.75,True
+Tourist Area,Italian,24.14,21,147,6,725,45,3.8,11314.0,76.97,True
+Suburban,Asian,13.03,24,53,13,623,54,4.6,9436.0,178.04,True
+Residential,Italian,16.81,10,36,5,418,55,4.2,9911.0,275.32,False
+Tourist Area,Asian,35.87,8,140,3,23,61,3.8,16470.0,117.64,False
+Suburban,Italian,14.28,17,108,12,642,69,3.4,5480.0,50.74,True
+Downtown,American,20.89,14,74,3,158,57,5.0,10746.0,145.21,True
+Suburban,Fast Food,8.0,19,60,9,1171,50,2.5,7799.0,129.98,False
+Business District,Asian,18.34,18,98,6,321,57,2.2,11067.0,112.93,True
+Downtown,Asian,28.34,16,99,9,219,51,4.3,21688.0,219.07,True
+Tourist Area,Fast Food,8.0,8,137,3,1317,47,4.4,11635.0,84.93,False
+Suburban,Mediterranean,18.66,5,72,7,1520,59,4.8,8927.0,123.98,True
+Tourist Area,Mediterranean,35.04,14,133,2,722,57,3.6,7629.0,57.36,False
+Downtown,Fast Food,10.06,11,142,3,498,66,4.5,18691.0,131.63,True
+Tourist Area,Asian,19.55,8,94,2,2325,55,3.1,14125.0,150.27,False
+Business District,American,10.65,23,48,13,435,60,3.4,7745.0,161.35,False
+Downtown,American,35.78,13,141,3,900,47,3.9,18122.0,128.53,True
+Business District,Italian,27.0,14,33,3,724,49,4.6,8737.0,264.76,True
+Suburban,Asian,17.1,10,130,9,3614,44,3.2,6502.0,50.01,True
+Business District,Fast Food,10.27,19,70,5,1423,52,3.1,6859.0,97.98,False
+Downtown,Mexican,30.34,19,147,4,4190,56,5.0,17924.0,121.93,True
+Suburban,American,20.4,13,110,11,990,50,3.5,8289.0,75.36,True
+Tourist Area,American,26.59,23,65,1,2701,58,3.7,17386.0,267.47,False
+Tourist Area,American,20.65,13,122,9,423,59,4.5,13373.0,109.62,False
+Suburban,Asian,26.37,19,129,4,485,44,4.2,10639.0,82.48,False
+Downtown,Asian,30.09,17,141,14,804,48,4.3,10378.0,73.6,False
+Tourist Area,American,16.82,11,107,8,2737,53,3.7,10732.0,100.3,True
+Suburban,Italian,21.38,9,86,12,518,37,3.9,6928.0,80.56,False
+Suburban,Italian,9.46,19,68,4,4020,56,4.2,7279.0,107.05,False
+Tourist Area,Fast Food,10.46,13,86,8,69,50,3.9,16541.0,192.33,False
+Suburban,Mexican,14.93,16,100,11,930,50,4.6,12222.0,122.22,True
+Downtown,American,24.38,24,137,3,977,53,3.4,17321.0,126.43,False
+Tourist Area,Mexican,15.94,8,88,12,2,42,5.0,9067.0,103.04,True
+Residential,Italian,20.99,17,57,1,15,52,5.0,9144.0,160.42,True
+Business District,Italian,21.23,10,77,6,107,39,3.9,9652.0,125.35,True
+Suburban,American,18.08,21,72,9,1110,54,3.9,10119.0,140.54,True
+Residential,Italian,20.56,5,139,5,80,61,2.9,7256.0,52.2,False
+Tourist Area,Asian,28.39,23,65,11,333,56,3.7,6969.0,107.22,False
+Suburban,American,18.46,21,102,13,878,51,4.6,7461.0,73.14,True
+Business District,Asian,13.57,10,69,4,765,41,4.6,8005.0,116.02,False
+Tourist Area,Mexican,8.0,11,90,11,675,63,3.6,16331.0,181.45,False
+Suburban,Italian,20.71,11,96,13,1751,49,3.2,11739.0,122.28,False
+Business District,Italian,9.69,17,84,14,2450,66,4.1,3561.0,42.4,False
+Business District,Italian,27.99,7,68,6,737,47,2.3,7574.0,111.39,False
+Suburban,Asian,17.81,18,145,7,561,55,5.0,8322.0,57.39,True
+Suburban,Mexican,25.86,23,107,10,437,39,3.5,12853.0,120.13,True
+Downtown,Asian,28.23,23,147,14,3215,52,2.7,7632.0,51.92,True
+Tourist Area,American,23.4,23,42,6,856,54,3.0,11694.0,278.44,False
+Suburban,Italian,21.62,21,96,7,1482,52,3.3,11419.0,118.95,False
+Downtown,American,27.65,13,149,8,1808,57,4.5,6891.0,46.25,True
+Suburban,Italian,17.07,6,70,13,662,53,3.3,6654.0,95.06,True
+Suburban,Italian,21.32,24,86,1,76,47,4.4,4247.0,49.38,True
+Suburban,Asian,21.1,8,89,4,46,47,4.9,7191.0,80.8,False
+Suburban,American,18.52,13,87,5,736,47,3.5,9337.0,107.33,True
+Tourist Area,Mexican,17.43,10,58,10,2388,56,4.6,12932.0,222.96,True
+Tourist Area,Italian,35.16,20,37,8,376,44,3.8,14552.0,393.3,False
+Downtown,Italian,24.1,6,79,12,586,49,5.0,6601.0,83.56,True
+Tourist Area,American,24.44,18,42,11,904,45,2.8,13657.0,325.16,False
+Downtown,Italian,29.58,9,113,12,163,44,3.6,8771.0,77.62,False
+Business District,American,23.84,18,88,8,393,44,4.4,9514.0,108.11,False
+Residential,Mexican,21.06,19,45,13,382,58,3.2,10227.0,227.26,True
+Suburban,Italian,17.36,14,112,9,71,53,4.5,6322.0,56.45,True
+Tourist Area,Mediterranean,33.87,15,139,2,418,50,4.9,13648.0,98.19,True
+Tourist Area,Italian,36.1,22,149,7,2590,53,3.6,12533.0,84.12,True
+Tourist Area,American,23.75,11,33,1,197,54,4.8,13421.0,406.7,True
+Downtown,American,36.08,16,69,6,1157,61,4.7,18663.0,270.48,False
+Downtown,American,27.3,16,69,11,53,38,3.1,16642.0,241.18,False
+Business District,Italian,16.23,13,64,3,30,61,4.8,7933.0,123.95,False
+Downtown,Mexican,28.38,11,82,7,504,46,3.7,19322.0,235.64,True
+Suburban,Italian,24.16,9,69,8,579,45,2.0,5594.0,81.07,True
+Downtown,Mexican,17.91,21,65,13,360,61,3.6,13398.0,206.12,False
+Business District,American,21.14,14,69,14,373,59,3.0,7918.0,114.76,False
+Suburban,Asian,18.95,17,118,2,1100,46,3.8,9690.0,82.12,True
+Suburban,American,8.0,23,89,7,124,57,2.8,6572.0,73.85,False
+Residential,Mediterranean,34.39,21,130,6,838,52,3.0,9321.0,71.7,False
+Suburban,American,19.08,7,57,3,201,58,3.1,5790.0,101.58,False
+Business District,Asian,22.92,16,78,11,1865,57,3.1,9363.0,120.03,True
+Business District,Mexican,23.38,24,145,13,264,45,4.3,6727.0,46.4,True
+Residential,Fast Food,8.0,12,37,11,272,61,5.0,7588.0,205.09,True
+Suburban,Asian,15.37,22,42,11,30,43,5.0,12820.0,305.24,False
+Suburban,Asian,19.11,24,59,1,1917,57,3.5,5753.0,97.51,False
+Business District,Fast Food,10.75,14,91,3,1389,40,5.0,9508.0,104.49,False
+Residential,Asian,12.41,22,131,5,1384,49,3.5,4717.0,36.01,True
+Suburban,Mexican,18.6,21,35,3,213,46,3.7,8322.0,237.77,False
+Residential,Mexican,30.67,17,81,10,1258,54,3.5,7541.0,93.1,False
+Suburban,Mexican,15.66,8,67,12,180,44,3.1,6240.0,93.13,False
+Residential,Italian,11.7,14,102,10,1042,45,3.5,7307.0,71.63,False
+Business District,Asian,19.23,19,63,7,2159,60,4.5,10271.0,163.04,True
+Downtown,Italian,17.46,24,78,4,127,55,3.9,7738.0,99.2,True
+Tourist Area,Asian,29.32,20,137,7,1074,63,4.1,17728.0,129.4,False
+Suburban,Mexican,22.05,21,101,7,292,56,3.8,6719.0,66.52,True
+Tourist Area,Mexican,24.64,12,89,3,1075,51,4.2,12773.0,143.52,True
+Residential,Mediterranean,15.33,13,132,10,564,47,4.1,7397.0,56.04,True
+Downtown,American,28.6,14,50,1,79,60,2.8,10137.0,202.73,False
+Suburban,Fast Food,8.0,7,139,14,479,57,3.4,3527.0,25.38,False
+Residential,Italian,18.95,6,55,5,373,44,4.4,4928.0,89.61,False
+Business District,Mexican,28.14,16,148,3,1485,53,4.3,8337.0,56.33,True
+Suburban,Asian,25.98,10,87,14,325,44,3.7,7086.0,81.45,False
+Downtown,Mexican,25.58,17,95,3,263,50,4.2,16894.0,177.83,False
+Suburban,American,27.95,11,89,2,1739,51,4.3,4066.0,45.68,False
+Suburban,Mediterranean,16.14,12,125,9,368,51,3.9,8839.0,70.71,False
+Suburban,American,24.73,15,106,11,1514,49,3.6,6073.0,57.29,True
+Business District,Asian,17.86,24,116,14,1497,41,5.0,7460.0,64.31,True
+Tourist Area,Mexican,20.41,14,128,11,23,41,3.2,10218.0,79.83,True
+Tourist Area,Asian,22.71,20,35,9,1548,46,2.6,16485.0,470.99,False
+Suburban,Mexican,12.9,11,92,7,798,34,4.7,8865.0,96.35,True
+Downtown,Mediterranean,37.04,9,119,4,597,46,1.7,13051.0,109.67,False
+Suburban,Asian,19.26,9,56,7,167,41,3.1,5691.0,101.63,False
+Downtown,Italian,12.94,17,48,7,1623,47,3.4,13080.0,272.5,True
+Tourist Area,Mediterranean,26.71,8,79,2,46,53,4.3,12738.0,161.24,True
+Downtown,Asian,8.0,7,86,5,2010,45,2.9,20760.0,241.39,False
+Suburban,American,16.14,15,117,1,138,39,4.3,4661.0,39.84,True
+Suburban,Italian,18.8,19,121,5,1449,44,3.6,9789.0,80.9,False
+Tourist Area,American,28.18,24,67,12,1463,44,5.0,13856.0,206.8,False
+Downtown,Italian,15.99,20,138,6,130,54,2.7,20497.0,148.53,True
+Downtown,American,28.23,11,89,2,555,51,4.3,18027.0,202.55,False
+Downtown,Mediterranean,21.34,24,132,8,450,51,4.2,13223.0,100.17,False
+Downtown,Mediterranean,18.27,17,65,4,2917,46,4.7,11228.0,172.74,True
+Tourist Area,American,18.77,18,99,12,390,53,3.3,10866.0,109.76,True
+Business District,Fast Food,8.0,24,116,8,340,46,4.2,5696.0,49.1,True
+Business District,Mediterranean,29.47,24,64,5,722,38,5.0,4822.0,75.35,True
+Downtown,Italian,20.81,15,68,6,587,51,3.8,12377.0,182.01,True
+Suburban,American,23.07,10,37,13,1186,47,3.4,8691.0,234.9,False
+Suburban,Mediterranean,24.17,17,89,9,334,49,3.9,7277.0,81.76,True
+Residential,Italian,20.08,15,106,12,1476,53,4.0,8883.0,83.8,True
+Downtown,Mexican,25.48,23,93,6,290,46,4.6,20123.0,216.38,True
+Tourist Area,Asian,27.13,16,55,6,812,47,3.2,15690.0,285.27,False
+Suburban,American,8.0,13,116,13,128,47,3.1,8157.0,70.32,True
+Tourist Area,Fast Food,8.0,20,139,14,2831,59,5.0,16445.0,118.31,True
+Suburban,Asian,25.91,21,111,1,164,49,3.5,4407.0,39.7,True
+Downtown,Asian,35.63,6,33,1,967,54,3.9,12933.0,391.9,True
+Downtown,Mexican,27.11,15,56,14,160,51,2.5,19346.0,345.47,False
+Suburban,Asian,10.29,13,33,14,83,49,4.4,9140.0,276.96,True
+Residential,Italian,20.8,12,53,6,633,41,3.3,4908.0,92.6,False
+Downtown,Mexican,33.27,15,91,5,579,53,4.1,12278.0,134.92,False
+Suburban,Mexican,14.96,15,97,11,886,47,3.9,10538.0,108.64,False
+Business District,American,22.88,20,124,14,179,48,3.7,7963.0,64.22,False
+Business District,American,26.35,11,44,7,583,42,3.6,7045.0,160.11,True
+Suburban,Asian,11.72,23,96,8,315,43,4.8,13501.0,140.64,False
+Downtown,Mexican,29.46,21,130,12,46,46,4.4,14071.0,108.24,True
+Suburban,Mexican,17.6,15,35,5,2975,41,3.4,8204.0,234.4,True
+Tourist Area,American,21.44,12,125,4,866,40,1.9,8216.0,65.73,False
+Downtown,Mexican,28.75,16,140,13,329,47,4.0,14584.0,104.17,True
+Suburban,Asian,15.01,5,48,12,1630,59,4.9,6409.0,133.52,True
+Suburban,Asian,20.12,20,57,3,504,41,3.5,5652.0,99.16,False
+Suburban,Asian,23.71,19,126,5,638,51,2.6,9358.0,74.27,True
+Suburban,American,13.94,24,120,6,401,55,4.0,5186.0,43.22,True
+Suburban,Mexican,13.36,22,70,6,2386,44,4.5,6642.0,94.89,True
+Tourist Area,Italian,21.38,23,47,1,448,40,2.9,14552.0,309.62,False
+Downtown,American,32.34,23,54,6,2442,51,2.8,11405.0,211.2,True
+Suburban,American,14.81,10,50,10,69,58,4.7,9499.0,189.97,True
+Tourist Area,Italian,31.41,8,92,8,1105,60,2.7,17710.0,192.5,False
+Residential,Fast Food,8.71,14,90,9,2118,34,3.8,8902.0,98.91,True
+Downtown,Mediterranean,50.0,14,149,9,1427,46,4.0,16415.0,110.17,True
+Business District,American,22.73,22,49,12,56,48,3.3,10769.0,219.77,True
+Downtown,Mexican,16.49,23,140,14,1529,61,5.0,15918.0,113.7,True
+Downtown,Fast Food,10.83,11,59,3,1551,61,3.7,23414.0,396.84,False
+Residential,Mediterranean,18.85,10,53,2,2900,54,4.7,12441.0,234.74,True
+Downtown,Mexican,25.26,7,104,6,5,49,3.1,17121.0,164.63,False
+Business District,Mexican,25.39,17,30,13,1354,54,4.5,7871.0,262.35,True
+Business District,Asian,22.04,10,100,12,216,57,3.0,11389.0,113.89,False
+Suburban,Asian,14.17,20,90,1,362,41,2.1,5841.0,64.9,True
+Suburban,Mediterranean,15.58,12,108,3,993,59,4.0,8695.0,80.51,False
+Residential,Mexican,11.57,22,147,7,2119,50,4.1,7637.0,51.95,False
+Tourist Area,Asian,22.71,7,130,2,1046,48,4.7,9515.0,73.2,True
+Suburban,American,17.99,24,93,3,56,43,4.0,6571.0,70.65,True
+Downtown,American,28.85,5,126,1,126,50,5.0,9093.0,72.17,True
+Downtown,Italian,24.45,22,83,13,1343,54,3.6,15521.0,187.0,False
+Downtown,Asian,28.21,8,96,7,660,44,4.2,12374.0,128.9,True
+Downtown,Asian,29.85,24,117,11,0,46,3.6,15247.0,130.32,True
+Suburban,Asian,11.37,15,113,14,679,46,3.2,5883.0,52.06,False
+Downtown,American,27.41,23,86,12,20,56,3.3,14068.0,163.58,False
+Downtown,Asian,16.16,12,55,12,1467,43,3.3,9134.0,166.07,True
+Suburban,Italian,13.54,21,130,12,1591,55,4.4,8327.0,64.05,True
+Suburban,Asian,12.02,17,36,12,3493,55,4.0,11766.0,326.84,False
+Suburban,American,8.0,7,108,3,213,53,2.1,7595.0,70.32,False
+Tourist Area,Asian,19.97,11,119,2,1167,51,4.4,11781.0,99.0,True
+Tourist Area,Fast Food,11.32,21,93,14,637,49,5.0,4259.0,45.79,True
+Suburban,Italian,20.57,5,104,10,1292,47,4.2,5186.0,49.86,True
+Suburban,Mexican,16.41,13,97,1,118,51,4.9,6063.0,62.51,True
+Suburban,Italian,22.0,21,47,10,181,62,5.0,6694.0,142.43,True
+Residential,American,22.75,13,106,11,625,44,4.2,7714.0,72.77,True
+Residential,Asian,21.94,7,95,1,2402,51,3.6,10134.0,106.67,False
+Business District,Asian,29.96,20,53,13,1365,49,4.6,7683.0,144.95,False
+Suburban,American,14.91,24,109,7,1383,51,4.8,6310.0,57.89,True
+Downtown,Fast Food,8.0,16,119,12,767,52,1.9,14895.0,125.17,False
+Downtown,Italian,39.83,19,106,7,490,41,5.0,14139.0,133.39,False
+Suburban,Mexican,18.13,17,93,4,127,46,4.6,4709.0,50.63,True
+Business District,Mexican,30.63,15,130,7,1880,43,4.4,6331.0,48.7,True
+Tourist Area,Italian,27.5,12,135,8,1342,46,2.5,9157.0,67.83,True
+Suburban,Mediterranean,27.34,21,46,3,360,51,3.1,8693.0,188.98,False
+Tourist Area,Fast Food,10.28,21,103,2,203,46,4.2,7242.0,70.31,True
+Business District,Mediterranean,22.91,20,37,4,88,49,2.6,7057.0,190.74,False
+Suburban,Fast Food,8.0,5,55,6,1810,59,4.7,8277.0,150.48,True
+Suburban,American,15.48,10,114,9,269,50,3.6,9267.0,81.29,True
+Suburban,American,18.59,15,52,2,514,48,3.5,8759.0,168.45,False
+Suburban,Italian,26.75,9,127,4,596,52,3.0,5756.0,45.32,True
+Suburban,Italian,25.99,8,71,3,1155,45,4.6,6505.0,91.62,True
+Suburban,Italian,15.34,22,86,5,179,36,4.1,4960.0,57.67,True
+Business District,Fast Food,9.18,9,115,12,83,51,5.0,10924.0,94.99,True
+Business District,American,24.29,14,81,13,316,46,5.0,7428.0,91.71,True
+Suburban,American,16.09,8,40,12,958,32,3.2,5653.0,141.34,False
+Downtown,Italian,24.47,20,123,13,4254,58,2.8,11162.0,90.75,True
+Suburban,Asian,24.74,7,98,2,2739,54,5.0,7773.0,79.32,True
+Business District,American,22.93,23,103,11,1599,55,2.8,6442.0,62.55,True
+Residential,American,24.06,7,38,13,1900,55,3.6,5428.0,142.85,False
+Suburban,Italian,22.37,22,108,12,259,35,3.0,7803.0,72.25,True
+Suburban,Italian,22.79,11,119,1,413,57,4.2,9272.0,77.92,True
+Residential,Italian,9.88,19,60,8,372,50,2.3,6975.0,116.25,False
+Business District,Asian,20.7,8,96,6,1168,48,4.3,7373.0,76.8,True
+Downtown,Mediterranean,36.58,20,66,5,343,49,3.2,12226.0,185.24,False
+Suburban,American,10.29,16,146,4,471,57,3.9,4040.0,27.67,True
+Suburban,Mexican,15.49,23,50,8,133,68,3.9,8144.0,162.87,True
+Downtown,Italian,29.93,15,92,3,1530,60,3.9,8251.0,89.68,True
+Business District,Mediterranean,48.65,20,85,14,711,49,2.7,9209.0,108.34,False
+Suburban,Fast Food,8.0,13,69,3,1309,47,3.5,7836.0,113.57,False
+Suburban,Mexican,23.45,21,116,9,6,39,4.0,9117.0,78.59,True
+Suburban,Asian,23.46,11,111,5,3120,44,4.7,6965.0,62.75,True
+Downtown,American,23.11,22,46,14,1479,42,3.3,7523.0,163.55,False
+Suburban,American,8.79,16,49,1,207,55,4.7,7406.0,151.14,True
+Suburban,Mediterranean,21.21,22,68,1,842,59,3.3,10849.0,159.54,True
+Suburban,Asian,16.1,23,64,2,284,47,4.4,7880.0,123.13,True
+Suburban,American,20.47,20,49,13,53,34,2.9,5841.0,119.19,False
+Suburban,Italian,11.4,16,46,4,519,47,2.3,7992.0,173.74,False
+Suburban,Asian,16.75,19,107,6,1856,49,5.0,4946.0,46.22,True
+Downtown,Mexican,19.98,9,125,10,7,50,3.5,9239.0,73.91,True
+Business District,Asian,8.97,16,118,8,95,55,3.1,8996.0,76.24,False
+Tourist Area,Fast Food,8.0,15,119,6,362,57,4.6,17098.0,143.68,True
+Residential,Mexican,15.99,17,41,13,2466,42,2.7,9007.0,219.67,False
+Suburban,American,18.85,14,145,2,588,46,4.8,8690.0,59.93,True
+Suburban,American,13.75,11,46,13,2022,54,4.5,9164.0,199.21,True
+Downtown,American,27.14,24,62,6,1643,44,5.0,7573.0,122.14,True
+Suburban,Fast Food,8.0,5,45,6,879,50,3.0,9739.0,216.42,False
+Suburban,Italian,21.86,17,56,10,297,41,5.0,9152.0,163.43,True
+Business District,American,20.7,23,38,13,1953,42,5.0,7637.0,200.97,True
+Tourist Area,Fast Food,8.0,6,120,4,1725,53,3.2,13057.0,108.81,False
+Residential,Asian,13.64,7,92,3,102,36,4.2,8488.0,92.26,True
+Business District,Fast Food,8.0,21,140,6,2451,57,2.8,5867.0,41.9,True
+Suburban,American,23.51,20,30,5,150,59,5.0,8079.0,269.31,True
+Residential,Asian,27.65,10,50,8,2420,57,3.5,4126.0,82.53,False
+Downtown,American,19.87,20,65,4,210,48,3.2,13442.0,206.8,False
+Downtown,Mexican,24.76,21,72,12,869,55,4.4,12312.0,171.0,True
+Downtown,American,17.11,5,116,10,719,47,2.7,17791.0,153.37,False
+Downtown,American,29.21,24,132,8,337,53,4.8,10100.0,76.51,True
+Downtown,Mexican,27.2,16,74,10,660,43,4.4,13384.0,180.87,False
+Suburban,Mediterranean,29.13,9,128,13,4140,45,4.0,9737.0,76.07,True
+Residential,Mexican,8.22,5,130,2,2375,49,3.1,10116.0,77.81,False
+Suburban,Italian,24.79,23,51,8,1031,43,3.7,7025.0,137.74,False
+Suburban,American,23.37,16,132,7,108,42,3.1,8067.0,61.12,False
+Suburban,Italian,17.93,5,128,10,1160,44,3.8,8433.0,65.89,False
+Suburban,American,16.48,11,43,7,81,51,4.6,7841.0,182.36,False
+Downtown,American,32.64,22,107,9,297,55,3.9,19619.0,183.36,True
+Business District,Mexican,13.04,18,32,3,2029,42,4.7,8316.0,259.87,True
+Downtown,Mediterranean,31.37,5,121,4,2474,50,3.4,12253.0,101.26,False
+Business District,Asian,19.8,13,55,2,3983,53,3.5,9663.0,175.7,True
+Downtown,Italian,30.28,22,106,14,659,36,4.1,14401.0,135.86,True
+Tourist Area,Mexican,34.13,7,55,9,1693,49,4.7,12686.0,230.65,True
+Tourist Area,American,16.3,12,81,14,1032,45,3.8,8917.0,110.09,False
+Business District,Fast Food,8.0,23,49,8,1993,48,4.0,7381.0,150.63,False
+Suburban,Italian,26.27,23,130,3,313,42,3.5,6519.0,50.15,False
+Tourist Area,American,22.73,5,136,7,54,54,4.2,13583.0,99.87,True
+Suburban,Italian,21.53,22,67,10,1268,52,3.7,7678.0,114.59,True
+Residential,Mexican,11.13,10,55,7,2731,53,3.1,7710.0,140.18,False
+Suburban,Italian,16.75,24,31,9,2611,54,3.9,6288.0,202.83,False
+Tourist Area,Mexican,23.63,21,48,3,561,46,4.4,11939.0,248.74,True
+Suburban,Italian,15.76,20,77,8,493,55,4.0,6651.0,86.38,True
+Suburban,Mexican,14.28,15,109,10,109,54,3.8,10128.0,92.92,False
+Tourist Area,American,28.53,10,116,5,1665,48,4.2,16221.0,139.83,True
+Business District,Fast Food,8.0,12,145,3,1746,57,4.3,8714.0,60.1,True
+Residential,Italian,18.63,5,68,14,510,50,3.1,8244.0,121.24,False
+Residential,Fast Food,8.0,24,90,6,1100,40,3.5,5873.0,65.26,False
+Suburban,Mediterranean,26.6,23,64,12,1437,52,3.0,9232.0,144.26,False
+Business District,Mediterranean,29.43,22,113,12,1687,45,4.1,8362.0,74.0,True
+Suburban,Italian,18.15,22,44,4,101,45,3.9,9419.0,214.07,False
+Suburban,Italian,21.09,20,128,10,1205,56,5.0,8053.0,62.91,False
+Suburban,Fast Food,8.0,23,82,7,416,57,4.6,8161.0,99.52,True
+Residential,American,14.71,23,120,6,1579,50,3.8,7200.0,60.0,False
+Suburban,Italian,8.54,20,36,3,785,51,3.7,9014.0,250.39,False
+Suburban,Mexican,17.71,24,54,2,79,53,2.5,7816.0,144.73,False
+Residential,Fast Food,8.0,18,83,7,434,55,5.0,7942.0,95.69,True
+Downtown,Fast Food,8.0,24,111,14,314,54,3.7,14923.0,134.44,True
+Downtown,Fast Food,11.73,8,123,7,122,52,4.5,15426.0,125.41,True
+Suburban,American,16.88,24,33,6,2705,53,2.3,6941.0,210.34,True
+Business District,American,21.88,14,128,9,2922,52,3.0,9741.0,76.11,True
+Business District,Italian,27.29,16,125,2,1309,60,2.9,7522.0,60.18,False
+Tourist Area,Mexican,11.95,21,72,2,2167,51,3.7,12187.0,169.27,False
+Downtown,Asian,37.77,21,61,14,446,38,4.0,17898.0,293.41,True
+Business District,Fast Food,8.0,12,135,6,131,48,3.9,9342.0,69.2,True
+Suburban,Asian,21.02,9,127,7,1228,43,4.2,6353.0,50.02,True
+Residential,American,24.66,9,96,12,191,47,2.5,10702.0,111.48,False
+Business District,Fast Food,11.74,18,63,10,1306,50,3.7,7107.0,112.82,True
+Downtown,American,22.94,12,103,4,798,52,4.5,12745.0,123.74,True
+Business District,Italian,24.86,13,111,11,2333,47,4.1,8882.0,80.01,True
+Suburban,Mediterranean,32.49,10,137,8,1628,50,5.0,5988.0,43.71,True
+Downtown,Asian,10.49,14,127,9,154,48,4.6,12988.0,102.27,False
+Suburban,Italian,13.3,15,77,8,21,53,4.9,8339.0,108.3,True
+Suburban,American,32.22,21,62,14,1110,45,4.1,8562.0,138.1,False
+Tourist Area,Italian,24.65,5,49,9,555,49,5.0,15416.0,314.61,True
+Downtown,Fast Food,8.0,8,68,5,278,55,3.9,9504.0,139.76,True
+Downtown,American,32.54,8,81,7,319,54,4.4,12400.0,153.09,False
+Residential,Fast Food,8.0,12,102,9,2521,46,5.0,9397.0,92.13,True
+Business District,American,17.31,14,41,5,413,43,4.0,9462.0,230.78,False
+Business District,American,24.83,15,118,3,283,49,5.0,8766.0,74.29,True
+Tourist Area,Italian,33.2,18,110,10,585,51,3.6,14440.0,131.27,False
+Suburban,American,17.45,22,49,1,1079,50,2.7,6563.0,133.94,False
+Downtown,Mexican,23.41,11,71,12,1491,55,3.8,16390.0,230.84,True
+Suburban,American,16.36,9,111,8,1534,50,3.3,9699.0,87.38,False
+Downtown,American,17.41,20,83,14,1250,44,5.0,12958.0,156.12,False
+Tourist Area,Asian,21.19,16,63,2,5760,48,2.9,17112.0,271.62,True
+Suburban,Mexican,19.57,14,128,4,1211,58,4.1,6218.0,48.58,True
+Business District,Asian,25.92,19,63,4,728,40,4.2,6009.0,95.39,False
+Tourist Area,Italian,23.14,22,81,11,552,55,2.9,9796.0,120.93,True
+Residential,Italian,9.72,11,135,1,3295,58,3.0,9897.0,73.31,False
+Suburban,Mexican,24.74,11,44,9,169,44,4.6,6852.0,155.72,True
+Residential,Italian,20.68,23,100,6,445,59,3.7,6499.0,64.99,True
+Residential,Mediterranean,18.7,6,48,4,208,45,4.0,8239.0,171.65,False
+Downtown,Asian,19.34,5,94,13,661,45,4.5,13113.0,139.5,True
+Tourist Area,Asian,16.84,10,145,5,821,48,4.5,11625.0,80.17,True
+Business District,Italian,21.69,20,139,8,315,47,3.7,8428.0,60.63,False
+Suburban,Asian,16.86,7,140,3,1926,55,5.0,7338.0,52.42,False
+Tourist Area,Asian,20.08,24,93,11,734,49,3.5,13758.0,147.94,True
+Tourist Area,Italian,25.71,13,117,9,464,50,5.0,11325.0,96.8,True
+Suburban,Mediterranean,17.36,8,87,12,73,47,5.0,7496.0,86.16,True
+Residential,Fast Food,8.0,13,39,12,1132,44,3.4,6889.0,176.63,False
+Suburban,American,19.34,10,76,9,1958,46,3.6,5034.0,66.24,True
+Suburban,Italian,21.06,5,112,2,491,57,2.6,10592.0,94.57,True
+Tourist Area,Mediterranean,26.47,15,53,12,141,59,4.3,7166.0,135.22,True
+Tourist Area,Mexican,20.74,9,110,10,512,46,4.6,13816.0,125.6,True
+Suburban,Mexican,15.04,14,61,10,1084,47,4.5,4550.0,74.59,True
+Suburban,Mexican,24.61,13,113,5,280,44,3.9,3000.0,26.55,True
+Downtown,Italian,24.6,10,112,14,279,49,5.0,15720.0,140.36,True
+Suburban,Mediterranean,22.32,15,103,8,168,53,4.0,5755.0,55.87,False
+Business District,American,20.5,11,39,1,2138,49,4.0,5970.0,153.08,True
+Downtown,Fast Food,8.9,6,92,9,338,45,3.7,12555.0,136.47,False
+Residential,Fast Food,8.0,8,146,8,397,40,3.2,8856.0,60.65,False
+Suburban,American,19.3,14,68,2,555,51,4.0,6638.0,97.62,False
+Residential,Mediterranean,13.41,5,127,7,1748,46,3.7,4084.0,32.15,True
+Residential,Mexican,18.31,17,43,11,988,47,3.3,9156.0,212.94,False
+Business District,American,24.75,22,98,6,53,49,4.3,9479.0,96.73,True
+Suburban,Fast Food,8.0,14,45,12,3275,45,4.4,4851.0,107.81,False
+Suburban,Asian,13.0,10,40,5,340,52,4.8,9725.0,243.13,True
+Suburban,Mediterranean,23.9,10,107,4,257,63,2.4,10184.0,95.18,True
+Residential,American,10.62,23,60,10,266,43,3.1,5816.0,96.94,False
+Suburban,Asian,13.68,6,101,11,570,43,5.0,6472.0,64.08,True
+Downtown,Mexican,31.33,7,39,11,2759,50,1.5,19648.0,503.79,False
+Business District,Asian,22.42,23,101,12,991,56,5.0,5333.0,52.8,True
+Suburban,Fast Food,8.0,16,66,11,2617,53,4.6,10308.0,156.19,True
+Downtown,Mediterranean,31.16,24,113,12,955,53,4.2,9322.0,82.5,True
+Suburban,Italian,23.43,23,142,13,50,51,3.4,10114.0,71.23,False
+Suburban,Italian,17.03,17,91,11,3625,57,3.7,9999.0,109.88,False
+Suburban,Mexican,17.59,15,78,3,384,59,4.5,8580.0,110.01,False
+Suburban,Italian,18.69,18,85,9,791,49,3.4,9024.0,106.16,True
+Downtown,Asian,29.53,12,54,14,394,49,4.8,13081.0,242.23,False
+Suburban,American,12.74,14,78,7,971,32,2.2,9009.0,115.5,False
+Suburban,Asian,21.13,9,148,12,1126,44,4.3,5724.0,38.67,True
+Downtown,Italian,23.55,8,94,2,3208,57,4.3,12321.0,131.07,False
+Suburban,Italian,17.96,13,39,4,881,52,3.6,9459.0,242.54,False
+Suburban,American,15.54,13,79,14,81,54,5.0,7215.0,91.33,True
+Business District,Mexican,23.51,23,52,9,674,40,4.3,7496.0,144.15,False
+Residential,Asian,23.44,19,84,3,491,50,4.6,9288.0,110.58,True
+Residential,Mediterranean,19.58,21,132,7,298,48,4.5,13006.0,98.53,True
+Downtown,Fast Food,14.64,5,46,12,370,46,3.9,9775.0,212.5,False
+Suburban,Fast Food,8.96,14,83,4,375,50,4.4,8059.0,97.1,False
+Downtown,Italian,19.09,9,85,12,1631,36,4.4,17485.0,205.71,True
+Suburban,Mediterranean,24.38,5,45,6,325,45,3.2,8953.0,198.96,False
+Business District,Mediterranean,39.69,17,87,3,1067,49,4.9,8261.0,94.96,False
+Business District,Asian,18.73,5,61,4,1066,44,4.3,10481.0,171.82,False
+Suburban,American,23.01,10,55,2,992,54,3.3,4637.0,84.3,True
+Suburban,Mediterranean,21.48,23,50,11,440,53,2.7,6086.0,121.73,False
+Downtown,Mexican,8.0,7,140,2,477,50,2.5,12092.0,86.37,False
+Downtown,Mediterranean,50.0,8,70,5,1453,63,3.2,13169.0,188.13,False
+Downtown,Fast Food,8.47,11,112,4,1583,49,3.4,14646.0,130.77,False
+Tourist Area,American,12.05,21,145,7,2433,65,3.7,9764.0,67.34,False
+Residential,Mediterranean,22.35,11,39,9,2185,47,4.0,6264.0,160.62,False
+Residential,American,20.53,20,100,4,759,45,4.7,8796.0,87.96,True
+Business District,Mediterranean,26.38,15,103,11,803,34,4.3,7132.0,69.25,True
+Downtown,American,37.26,17,115,8,1365,38,2.4,7548.0,65.64,False
+Downtown,Italian,26.67,17,30,1,931,51,3.6,15618.0,520.6,True
+Suburban,Asian,13.04,12,78,8,1848,55,4.0,6047.0,77.53,True
+Residential,Italian,8.0,6,102,8,995,45,3.8,6934.0,67.98,True
+Business District,Asian,22.87,21,79,5,3407,50,3.5,7628.0,96.56,False
+Downtown,American,29.59,16,46,14,658,54,3.9,12331.0,268.06,False
+Downtown,American,20.88,13,138,3,730,47,4.4,21954.0,159.08,False
+Suburban,American,32.08,7,134,6,636,46,2.1,14197.0,105.94,False
+Business District,Fast Food,8.02,17,55,6,1224,44,3.1,11209.0,203.81,False
+Business District,Italian,21.89,20,45,11,1121,53,4.9,6108.0,135.74,True
+Suburban,Asian,19.3,23,36,9,1151,50,4.2,10321.0,286.7,False
+Suburban,Mediterranean,23.25,11,60,13,202,52,3.9,9556.0,159.26,True
+Downtown,American,29.36,13,79,1,1173,51,3.0,12271.0,155.33,False
+Residential,Italian,10.72,17,105,1,1743,50,5.0,6157.0,58.64,True
+Business District,Italian,18.21,9,97,10,1058,41,5.0,8399.0,86.59,True
+Business District,American,18.0,16,30,3,734,59,3.6,7463.0,248.76,False
+Residential,American,25.5,13,52,4,1052,40,2.7,7106.0,136.65,False
+Business District,Fast Food,8.0,23,75,1,1867,52,5.0,8259.0,110.12,False
+Business District,Mediterranean,35.15,11,62,1,1703,50,5.0,7929.0,127.89,True
+Business District,Asian,16.24,23,116,13,516,54,3.7,8202.0,70.71,False
+Downtown,Asian,28.49,22,125,8,925,50,3.9,16366.0,130.93,False
+Residential,Mexican,14.79,5,33,7,395,52,4.5,10362.0,314.0,True
+Downtown,American,28.02,7,144,10,704,51,5.0,8710.0,60.48,True
+Suburban,American,16.25,23,118,6,693,58,3.8,6798.0,57.61,True
+Suburban,Italian,23.83,6,48,14,541,49,4.1,9212.0,191.92,True
+Tourist Area,Asian,24.05,9,138,9,209,50,4.9,13809.0,100.06,True
+Downtown,American,30.77,16,40,8,1785,45,5.0,17539.0,438.49,True
+Suburban,Mexican,17.9,24,126,3,501,51,4.6,11181.0,88.74,True
+Downtown,Italian,21.22,9,88,2,6025,60,3.0,12196.0,138.59,False
+Suburban,Italian,14.63,19,47,13,1109,43,4.8,5772.0,122.81,True
+Downtown,Fast Food,8.31,10,51,11,39,53,4.5,10768.0,211.14,True
+Business District,Mexican,15.37,13,134,2,2314,55,5.0,4729.0,35.29,False
+Tourist Area,Italian,29.69,22,138,13,57,46,3.4,10463.0,75.82,False
+Suburban,Mexican,22.31,22,146,11,76,57,2.6,9655.0,66.13,False
+Suburban,American,22.85,11,116,8,1844,46,3.9,8066.0,69.53,False
+Business District,Asian,17.7,19,139,8,750,50,4.4,8099.0,58.26,True
+Suburban,Italian,21.61,11,111,11,185,52,5.0,8937.0,80.51,True
+Business District,American,20.95,17,119,4,307,55,3.1,8127.0,68.29,False
+Business District,Mexican,18.66,8,123,3,15,39,2.6,7032.0,57.17,False
+Downtown,Italian,19.65,17,80,2,523,42,4.3,17086.0,213.58,True
+Suburban,American,18.58,23,136,12,749,41,4.6,8456.0,62.18,True
+Tourist Area,Italian,16.03,23,61,2,914,42,4.3,15123.0,247.92,True
+Tourist Area,Italian,15.18,10,62,10,1379,45,3.9,12443.0,200.7,False
+Downtown,Asian,31.85,21,79,6,474,39,5.0,21127.0,267.43,True
+Suburban,Mexican,18.17,14,112,5,1626,61,3.6,7908.0,70.61,False
+Downtown,Fast Food,8.0,17,50,1,497,52,3.9,12832.0,256.64,False
+Tourist Area,Italian,21.02,5,45,8,604,54,4.0,7042.0,156.48,False
+Downtown,Asian,22.48,9,88,12,979,53,5.0,16067.0,182.57,True
+Business District,American,22.4,7,123,12,2884,46,2.9,7209.0,58.61,False
+Downtown,Asian,36.34,21,107,9,840,49,4.7,19136.0,178.84,False
+Business District,Asian,20.73,11,74,4,125,53,4.0,10513.0,142.07,True
+Tourist Area,Asian,28.58,20,135,13,855,48,4.3,11151.0,82.6,False
+Suburban,American,11.58,15,36,9,398,52,4.0,7403.0,205.64,True
+Suburban,Asian,16.07,7,60,13,1729,43,4.2,6213.0,103.55,True
+Suburban,Mediterranean,12.73,24,74,6,659,48,2.6,6212.0,83.95,False
+Business District,Asian,21.07,20,54,7,502,50,3.8,10040.0,185.92,True
+Downtown,Mexican,8.62,17,136,13,529,53,3.5,16192.0,119.06,False
+Business District,American,14.25,23,106,13,6332,60,3.3,11917.0,112.42,True
+Downtown,Fast Food,12.43,17,59,12,1305,63,3.5,14903.0,252.59,False
+Suburban,American,16.61,11,129,13,302,41,4.2,9777.0,75.79,False
+Downtown,Italian,36.45,7,72,7,166,62,4.7,18068.0,250.95,True
+Downtown,American,22.97,14,42,13,603,53,2.8,11055.0,263.22,True
+Suburban,Mexican,12.33,8,116,9,1221,55,3.8,6260.0,53.96,True
+Business District,Italian,19.15,18,33,1,1012,44,4.1,7696.0,233.21,False
+Suburban,Mediterranean,33.45,14,52,3,410,52,3.4,9382.0,180.42,True
+Business District,Mediterranean,29.26,23,135,9,115,57,3.5,9382.0,69.49,True
+Residential,Fast Food,8.0,22,55,3,599,39,4.8,9248.0,168.14,False
+Suburban,Mexican,31.9,8,81,4,2969,46,3.2,4534.0,55.98,False
+Business District,American,33.01,13,115,10,940,52,2.4,7704.0,66.99,True
+Downtown,Italian,33.03,5,148,6,53,49,5.0,14505.0,98.01,False
+Downtown,Italian,28.22,5,81,11,1646,56,3.9,16233.0,200.41,True
+Tourist Area,American,25.31,14,110,14,524,45,3.7,9995.0,90.87,True
+Suburban,American,15.38,15,68,9,29,46,4.6,7002.0,102.97,True
+Suburban,American,12.67,24,115,5,371,52,5.0,9958.0,86.59,True
+Suburban,Italian,16.75,21,34,10,121,46,3.0,6645.0,195.44,False
+Downtown,Mediterranean,35.64,7,103,2,486,48,3.5,12137.0,117.83,False
+Suburban,Italian,8.0,23,91,3,4319,52,3.5,6550.0,71.98,False
+Residential,Fast Food,8.0,19,84,9,1,44,3.8,8025.0,95.54,True
+Suburban,Mexican,19.3,10,46,2,407,43,4.9,5641.0,122.63,True
+Tourist Area,Italian,20.93,22,66,13,521,56,3.0,11856.0,179.64,False
+Business District,Fast Food,10.23,20,66,13,816,47,2.5,9232.0,139.88,False
+Business District,Mediterranean,25.86,7,54,10,3707,56,4.6,3979.0,73.68,True
+Suburban,Mexican,19.53,9,91,4,50,53,5.0,7033.0,77.29,True
+Tourist Area,Italian,31.79,22,145,4,532,59,3.6,12148.0,83.78,False
+Downtown,Italian,26.66,16,77,12,385,52,5.0,14094.0,183.04,True
+Business District,Asian,15.53,21,38,13,26,59,4.4,10239.0,269.46,True
+Downtown,Italian,27.18,14,49,2,1534,39,4.3,15648.0,319.34,False
+Tourist Area,Mexican,23.29,19,34,12,882,56,3.7,12147.0,357.26,False
+Business District,Fast Food,8.67,7,84,9,1373,59,4.3,6505.0,77.44,True
+Suburban,Italian,17.3,16,50,4,2339,40,4.1,5942.0,118.84,True
+Suburban,Mexican,17.02,15,46,2,936,52,4.4,7857.0,170.8,False
+Suburban,American,15.69,13,82,13,53,42,4.8,7270.0,88.65,True
+Suburban,American,15.48,10,70,12,1987,49,5.0,7507.0,107.25,True
+Suburban,Asian,12.82,7,68,8,416,46,3.2,11779.0,173.22,False
+Suburban,Asian,21.45,18,36,13,93,56,3.0,12393.0,344.26,False
+Residential,Asian,18.68,18,132,13,234,50,4.6,8731.0,66.14,True
+Suburban,Italian,17.8,24,37,11,1430,41,3.3,6506.0,175.84,True
+Downtown,Mexican,19.88,15,82,8,309,50,3.7,12360.0,150.73,False
+Tourist Area,Italian,16.57,17,134,12,538,42,4.9,12602.0,94.05,True
+Business District,American,23.68,17,102,8,152,53,3.5,7777.0,76.25,False
+Residential,Mexican,19.5,18,88,5,291,49,3.4,6152.0,69.91,False
+Downtown,Mediterranean,28.21,5,146,7,3128,55,4.2,14510.0,99.38,True
+Downtown,Mediterranean,24.59,12,110,8,2832,59,3.4,7782.0,70.74,True
+Downtown,Mediterranean,50.0,20,103,6,166,55,4.8,17188.0,166.88,True
+Downtown,American,26.45,11,71,7,384,62,3.9,18669.0,262.94,False
+Downtown,Asian,22.31,13,120,4,497,39,4.0,19854.0,165.45,True
+Downtown,Mexican,12.33,24,63,12,1083,57,4.2,18192.0,288.76,True
+Business District,Mediterranean,23.63,19,43,10,1138,37,3.9,9230.0,214.65,True
+Business District,American,24.66,24,136,11,780,62,2.6,7214.0,53.04,True
+Suburban,Mexican,21.3,10,72,5,189,47,3.7,9788.0,135.95,False
+Downtown,Asian,19.84,6,134,9,719,54,4.0,14358.0,107.15,False
+Business District,Asian,8.86,5,32,10,687,60,4.3,6638.0,207.44,False
+Downtown,Asian,26.68,5,31,10,2331,48,4.1,20229.0,652.55,True
+Downtown,Mediterranean,34.89,22,81,12,927,45,4.0,17915.0,221.17,False
+Downtown,Italian,17.27,17,139,3,1655,57,5.0,20061.0,144.32,False
+Suburban,Mexican,19.31,6,149,5,2620,52,2.6,10428.0,69.98,False
+Suburban,Italian,21.42,8,93,4,227,42,2.4,5038.0,54.17,True
+Suburban,American,26.83,19,116,7,25,36,4.4,13922.0,120.01,True
+Downtown,Asian,30.82,23,57,1,762,41,3.6,16061.0,281.78,False
+Suburban,American,15.11,9,68,2,741,48,3.8,10499.0,154.4,False
+Tourist Area,American,13.84,17,120,6,70,55,4.8,8251.0,68.76,True
+Business District,Mediterranean,43.16,9,141,9,1735,54,4.2,8263.0,58.61,False
+Tourist Area,American,23.84,15,42,11,1359,44,4.1,11867.0,282.55,True
+Downtown,Italian,37.04,18,44,2,1324,56,5.0,15047.0,341.97,False
+Downtown,American,27.81,14,96,4,486,55,3.6,15580.0,162.29,False
+Suburban,Mexican,14.48,9,106,5,508,42,4.1,8784.0,82.87,True
+Residential,Italian,9.74,9,102,14,1482,47,3.7,9613.0,94.24,False
+Tourist Area,Asian,34.78,7,125,10,2261,35,4.0,10511.0,84.09,True
+Downtown,Asian,37.2,5,87,13,1445,50,4.1,10265.0,117.98,False
+Suburban,Mexican,11.93,20,74,7,514,58,4.1,10600.0,143.24,False
+Suburban,American,22.8,7,68,13,987,46,3.4,8836.0,129.94,False
+Suburban,Asian,19.4,23,105,8,1274,50,4.9,8008.0,76.27,True
+Residential,Italian,15.04,24,42,2,820,40,4.2,8012.0,190.76,False
+Downtown,Asian,17.04,16,107,14,5213,48,4.0,14004.0,130.88,True
+Business District,American,15.9,18,104,14,1787,43,4.8,10818.0,104.02,True
+Downtown,Italian,26.03,15,88,10,2464,42,4.7,14742.0,167.53,True
+Downtown,Italian,31.14,19,33,8,204,48,3.6,17295.0,524.08,False
+Suburban,Italian,18.21,16,86,2,2437,56,4.6,11216.0,130.42,True
+Tourist Area,American,32.2,22,31,7,1500,59,4.0,9438.0,304.46,False
+Business District,Asian,27.48,9,54,9,171,52,5.0,7888.0,146.07,True
+Downtown,American,26.97,22,81,8,64,54,3.7,11839.0,146.16,False
+Suburban,Mexican,9.44,6,36,6,414,46,4.4,8657.0,240.47,False
+Suburban,Asian,23.29,13,136,10,3081,56,2.9,8273.0,60.83,True
+Suburban,American,10.33,24,62,9,1183,53,5.0,5230.0,84.36,False
+Business District,Asian,17.14,16,124,14,1806,54,5.0,6770.0,54.59,True
+Tourist Area,American,19.91,24,87,5,42,44,5.0,12577.0,144.56,True
+Suburban,Italian,23.72,9,116,1,337,47,3.0,9758.0,84.12,False
+Suburban,Mexican,8.0,8,149,6,459,40,4.3,6085.0,40.84,True
+Downtown,Asian,19.48,22,109,6,1871,55,3.7,11371.0,104.32,False
+Suburban,Asian,17.58,8,55,2,2625,46,3.7,6125.0,111.36,False
+Business District,Mexican,13.4,7,68,5,1670,55,4.3,7158.0,105.27,True
+Residential,Asian,15.83,9,72,6,1079,58,4.5,6780.0,94.17,False
+Business District,American,21.79,17,143,3,1406,46,4.2,7885.0,55.14,True
+Tourist Area,Asian,23.26,12,140,5,2056,45,3.4,11495.0,82.11,True
+Business District,Mexican,25.22,14,52,6,432,63,3.8,3000.0,57.69,True
+Business District,Mediterranean,36.04,16,48,11,2776,49,5.0,7532.0,156.92,False
+Suburban,American,22.32,24,110,1,765,54,4.4,4969.0,45.17,False
+Suburban,American,20.73,14,135,5,31,42,3.9,8548.0,63.32,True
+Business District,American,8.0,14,137,2,144,50,5.0,10157.0,74.14,True
+Residential,American,14.86,7,122,10,1923,42,5.0,6006.0,49.23,True
+Downtown,Italian,18.67,9,49,3,789,52,3.6,12874.0,262.74,True
+Tourist Area,Asian,22.65,24,39,12,655,43,5.0,8424.0,215.99,True
+Suburban,Mediterranean,24.24,8,43,8,646,63,5.0,8024.0,186.6,False
+Tourist Area,Fast Food,8.52,20,131,8,600,44,3.9,13606.0,103.87,True
+Suburban,Mediterranean,37.71,15,48,11,515,60,3.9,11428.0,238.09,True
+Residential,Asian,14.13,10,49,11,413,40,5.0,5720.0,116.73,True
+Suburban,Italian,18.21,9,50,14,367,44,3.4,10243.0,204.86,True
+Downtown,American,24.26,19,88,3,401,42,3.1,15588.0,177.14,False
+Suburban,Mexican,25.1,12,98,7,1089,47,3.0,6044.0,61.68,False
+Downtown,Italian,29.65,20,91,9,2730,58,3.9,11895.0,130.72,False
+Business District,Fast Food,14.23,22,62,5,588,54,4.0,7279.0,117.41,True
+Downtown,American,19.49,9,91,10,680,60,3.0,11356.0,124.79,False
+Tourist Area,Fast Food,8.0,15,85,1,2947,47,4.0,19247.0,226.44,False
+Suburban,Italian,12.17,5,72,11,1260,48,2.8,8418.0,116.91,False
+Suburban,American,18.29,13,149,3,60,59,4.7,7316.0,49.1,True
+Downtown,American,22.99,12,78,10,734,58,4.3,12169.0,156.02,True
+Suburban,Mediterranean,17.67,14,125,12,1517,43,4.7,5883.0,47.06,True
+Business District,Mexican,10.35,11,145,7,2435,45,4.9,9266.0,63.9,False
+Downtown,American,25.68,11,56,6,617,50,3.1,18105.0,323.3,False
+Suburban,Italian,10.88,8,82,7,710,42,3.6,7098.0,86.56,False
+Downtown,American,27.26,20,123,6,1796,52,3.5,14727.0,119.73,False
+Residential,Asian,20.55,24,77,12,0,55,2.7,7496.0,97.35,False
+Suburban,Italian,16.1,13,61,10,144,41,3.7,9201.0,150.84,True
+Suburban,Italian,22.88,21,62,2,1151,50,4.4,8053.0,129.89,True
+Suburban,American,22.47,5,148,12,2503,60,4.7,4976.0,33.62,True
+Business District,American,20.01,24,117,5,185,58,3.4,5272.0,45.06,True
+Suburban,American,19.97,22,83,14,2645,47,4.2,6449.0,77.7,True
+Downtown,Asian,19.59,21,110,13,209,49,4.0,5836.0,53.05,True
+Tourist Area,Fast Food,11.1,17,105,12,99,38,4.8,10790.0,102.76,True
+Suburban,American,11.75,11,148,12,633,46,4.3,9220.0,62.3,True
+Residential,American,17.8,6,34,13,1028,45,4.3,8519.0,250.56,False
+Tourist Area,Mexican,31.62,5,55,10,1853,50,4.8,13941.0,253.48,True
+Business District,Italian,15.52,14,128,10,3055,48,3.4,7740.0,60.47,False
+Suburban,American,14.66,10,141,2,505,45,5.0,3694.0,26.2,True
+Suburban,Italian,17.85,11,53,13,258,50,3.5,7090.0,133.77,False
+Suburban,Asian,20.27,6,110,5,1164,64,4.0,7500.0,68.19,True
+Suburban,American,11.32,7,61,3,1624,48,4.4,9732.0,159.55,True
+Residential,Mexican,24.32,7,53,8,695,46,4.3,11010.0,207.74,False
+Suburban,American,12.6,9,52,1,176,44,5.0,9689.0,186.33,False
+Downtown,American,26.93,14,65,11,444,52,5.0,13957.0,214.72,True
+Suburban,American,14.9,10,138,3,490,42,4.5,8215.0,59.53,True
+Suburban,Mexican,15.79,18,49,12,807,49,4.0,6251.0,127.57,False
+Residential,Asian,10.44,17,76,2,1457,50,3.0,7113.0,93.59,False
+Suburban,American,18.02,20,75,12,599,47,4.7,8669.0,115.58,True
+Downtown,Asian,23.17,9,35,5,1323,37,3.7,15519.0,443.39,True
+Business District,Mexican,18.79,12,86,10,205,40,3.2,7596.0,88.32,False
+Business District,American,31.52,15,130,9,373,53,3.1,9775.0,75.19,False
+Business District,Mexican,17.03,7,73,3,250,45,3.8,9507.0,130.23,True
+Residential,Fast Food,8.0,6,104,11,1717,45,3.6,9581.0,92.12,True
+Tourist Area,Asian,12.4,8,110,5,498,51,4.1,10788.0,98.07,True
+Suburban,Italian,18.01,17,38,14,1244,46,4.6,6565.0,172.75,False
+Suburban,Mexican,9.19,11,135,13,4296,51,3.5,6935.0,51.37,False
+Residential,American,21.52,16,54,3,696,45,4.5,8839.0,163.69,True
+Residential,Fast Food,8.0,20,94,2,526,60,4.8,9642.0,102.57,False
+Business District,Fast Food,8.0,24,135,5,1141,38,4.1,9833.0,72.84,False
+Business District,Fast Food,8.52,17,148,6,511,47,4.9,9673.0,65.36,True
+Downtown,Mexican,34.5,15,121,10,727,45,3.4,15091.0,124.72,True
+Suburban,American,8.0,6,131,6,2751,35,5.0,8235.0,62.86,True
+Suburban,American,18.76,18,85,2,1618,55,4.1,8902.0,104.73,True
+Business District,American,16.96,16,146,10,2493,48,2.0,6000.0,41.1,False
+Downtown,Mexican,40.56,19,143,13,2039,52,3.3,14651.0,102.45,False
+Residential,Mediterranean,21.97,19,119,14,967,38,3.7,5935.0,49.88,True
+Business District,Italian,25.24,24,108,8,401,45,4.5,3000.0,27.78,False
+Suburban,Mexican,15.71,14,90,7,1099,44,3.2,6792.0,75.47,False
+Suburban,American,31.57,17,143,7,195,46,5.0,8501.0,59.45,False
+Business District,Mediterranean,9.79,23,97,8,924,46,3.5,8333.0,85.91,False
+Suburban,Italian,23.3,18,132,9,875,65,4.4,6460.0,48.94,True
+Suburban,American,14.27,20,43,11,647,59,4.5,10510.0,244.42,False
+Business District,American,25.72,12,75,11,32,53,2.4,11366.0,151.54,False
+Tourist Area,American,24.3,6,45,9,327,52,4.5,12107.0,269.04,False
+Tourist Area,Fast Food,8.0,23,136,5,344,51,4.3,7546.0,55.49,True
+Tourist Area,Mexican,29.31,9,49,8,147,47,3.9,17208.0,351.19,True
+Tourist Area,American,25.23,17,42,6,2098,43,3.3,10894.0,259.37,False
+Tourist Area,American,25.97,20,54,12,1066,50,3.8,16515.0,305.83,False
+Business District,Mexican,26.29,12,68,4,427,45,4.2,4543.0,66.8,False
+Suburban,Asian,17.55,19,81,7,717,46,2.8,7854.0,96.97,True
+Downtown,Italian,38.42,10,88,5,1403,60,5.0,14313.0,162.64,False
+Tourist Area,Fast Food,10.95,8,70,4,666,53,2.9,10621.0,151.73,False
+Suburban,Fast Food,8.0,9,73,13,980,56,4.9,8124.0,111.29,True
+Business District,Mexican,20.92,12,57,5,297,47,4.0,7738.0,135.76,False
+Business District,Asian,15.11,21,81,1,589,59,1.9,6335.0,78.21,False
+Suburban,American,8.0,6,144,7,773,46,3.0,5422.0,37.65,True
+Suburban,American,16.41,24,77,5,2649,55,3.5,6587.0,85.54,False
+Downtown,Mexican,18.84,13,101,11,1034,55,3.6,18678.0,184.93,False
+Business District,Mediterranean,28.22,10,130,4,780,39,5.0,8799.0,67.68,False
+Downtown,Mexican,10.69,19,128,6,3463,38,4.1,13381.0,104.54,True
+Suburban,Asian,17.76,15,65,3,310,70,4.5,7705.0,118.54,True
+Tourist Area,Asian,30.9,5,74,1,2606,62,4.9,15365.0,207.64,True
+Business District,American,18.6,13,56,12,654,53,3.2,4136.0,73.85,False
+Suburban,Fast Food,8.0,24,59,14,155,50,3.3,10281.0,174.25,False
+Residential,Mediterranean,15.73,10,36,11,1718,45,3.9,8562.0,237.85,False
+Suburban,Fast Food,8.0,15,53,2,808,38,3.8,10676.0,201.43,False
+Suburban,American,16.28,11,119,10,1673,46,4.7,4973.0,41.79,True
+Suburban,Italian,14.38,13,123,9,1220,61,2.7,9582.0,77.9,False
+Suburban,American,17.89,24,107,8,635,46,5.0,9366.0,87.53,True
+Business District,American,12.3,14,86,12,456,52,3.1,9514.0,110.63,False
+Suburban,Fast Food,8.0,19,128,14,54,44,3.4,11825.0,92.38,False
+Downtown,Mediterranean,28.83,16,125,7,2174,51,3.4,12101.0,96.81,False
+Suburban,American,18.32,5,67,12,938,48,5.0,7207.0,107.57,True
+Downtown,Italian,26.5,17,138,1,340,64,4.9,12576.0,91.13,True
+Tourist Area,Italian,24.96,10,64,4,1369,43,5.0,9662.0,150.97,False
+Suburban,Mexican,24.22,11,55,11,155,53,4.7,7050.0,128.19,True
+Tourist Area,Fast Food,8.0,19,54,6,1305,61,2.7,11193.0,207.27,False
+Downtown,Asian,48.84,13,101,7,734,42,4.5,14078.0,139.39,False
+Business District,American,17.84,23,83,11,2411,46,3.3,9687.0,116.72,False
+Downtown,American,26.21,22,71,3,9,44,5.0,10354.0,145.83,True
+Tourist Area,Mexican,25.86,21,97,3,68,51,4.6,14822.0,152.8,False
+Tourist Area,Italian,28.33,21,92,13,584,53,3.5,14415.0,156.68,False
+Business District,Asian,34.74,10,56,6,93,59,4.6,8809.0,157.31,True
+Tourist Area,Mediterranean,16.9,10,89,5,401,39,3.3,9107.0,102.32,False
+Business District,American,21.29,5,87,3,1075,53,3.6,5457.0,62.72,False
+Suburban,Italian,15.01,18,63,1,370,72,4.2,9576.0,152.0,True
+Residential,American,20.31,6,119,14,615,43,3.7,4598.0,38.64,False
+Business District,Mexican,18.92,12,102,2,807,51,3.1,7247.0,71.05,False
+Tourist Area,Asian,25.45,13,35,13,1204,51,4.0,9329.0,266.53,True
+Downtown,American,23.89,6,72,13,3293,53,4.6,15052.0,209.05,True
+Business District,Asian,20.99,8,145,2,189,47,4.6,8461.0,58.35,False
+Tourist Area,Mediterranean,18.1,22,85,14,960,48,4.1,14613.0,171.91,True
+Residential,American,20.29,8,76,11,848,60,4.4,8364.0,110.06,False
+Business District,American,25.35,24,108,10,321,55,3.9,9989.0,92.49,False
+Business District,Asian,27.17,11,77,10,281,54,3.9,8186.0,106.31,True
+Downtown,Italian,28.34,24,73,7,3010,52,4.3,11015.0,150.89,False
+Downtown,Asian,22.49,12,142,13,1602,44,4.2,13781.0,97.05,True
+Residential,Asian,14.02,8,79,3,181,52,5.0,12082.0,152.94,True
+Tourist Area,Mexican,26.52,10,143,2,2281,44,4.1,13773.0,96.32,True
+Residential,Mexican,21.46,12,94,1,1005,47,3.6,9207.0,97.95,True
+Downtown,American,35.01,15,81,3,677,48,4.2,12187.0,150.45,True
+Business District,Italian,11.31,14,103,10,1289,45,4.1,6771.0,65.74,True
+Residential,Fast Food,8.0,17,78,3,301,53,4.0,8105.0,103.91,False
+Downtown,Mediterranean,40.81,20,49,13,584,50,3.0,7225.0,147.44,False
+Tourist Area,American,22.1,13,113,11,1259,47,4.8,10436.0,92.35,True
+Downtown,Mexican,12.99,18,34,1,1035,48,3.2,14849.0,436.72,False
+Downtown,Italian,29.3,20,67,3,906,53,4.5,20511.0,306.14,False
+Business District,Mexican,20.18,22,80,4,112,57,1.8,3701.0,46.27,True
+Downtown,Fast Food,10.36,19,32,5,294,51,3.7,22134.0,691.68,False
+Suburban,Mediterranean,18.85,24,109,7,1130,55,3.7,4463.0,40.95,True
+Business District,Asian,19.07,23,93,6,2986,47,3.3,8027.0,86.31,False
+Downtown,American,9.41,22,109,1,4632,55,4.3,16826.0,154.36,True
+Residential,Italian,15.45,22,122,3,489,52,3.7,8278.0,67.85,True
+Business District,Italian,18.98,20,137,1,360,50,4.8,8916.0,65.08,True
+Suburban,Mexican,28.07,13,137,7,535,58,4.2,7666.0,55.96,False
+Downtown,Italian,42.44,18,44,2,903,46,3.9,11556.0,262.63,False
+Suburban,American,21.46,23,129,13,32,46,4.4,7852.0,60.87,True
+Tourist Area,Mediterranean,29.2,18,38,11,3381,61,4.0,10562.0,277.96,False
+Residential,Asian,23.26,24,121,9,2078,59,4.4,11583.0,95.73,False
+Suburban,Asian,8.0,22,67,7,1279,41,3.8,5711.0,85.24,False
+Downtown,Mediterranean,30.06,24,65,12,1218,44,2.6,16368.0,251.81,False
+Tourist Area,Fast Food,9.89,9,99,5,72,54,3.2,15454.0,156.11,False
+Business District,Asian,23.58,11,35,11,761,41,3.7,7728.0,220.81,False
+Tourist Area,Mediterranean,20.95,24,87,13,2096,48,5.0,12207.0,140.31,True
+Business District,Italian,28.43,22,116,4,2373,50,3.1,8433.0,72.7,False
+Business District,Italian,31.15,17,121,14,937,45,3.5,8782.0,72.58,False
+Residential,American,25.23,6,68,9,372,50,4.4,6754.0,99.33,False
+Suburban,Mediterranean,25.11,8,126,7,291,47,3.2,6302.0,50.02,False
+Downtown,American,18.73,22,54,5,407,50,4.3,13560.0,251.12,True
+Downtown,Mexican,8.22,13,100,14,244,36,4.7,15549.0,155.49,True
+Suburban,Asian,8.0,7,127,3,598,57,3.7,3911.0,30.79,True
+Business District,Mediterranean,32.91,10,148,9,3484,46,3.7,7592.0,51.3,False
+Suburban,Asian,18.29,5,129,3,568,51,4.0,9560.0,74.11,False
+Suburban,American,15.35,23,50,11,1281,58,3.0,10314.0,206.29,False
+Suburban,Mexican,17.14,10,35,4,592,45,5.0,6843.0,195.51,True
+Downtown,Mexican,26.68,21,63,9,425,47,3.4,12549.0,199.19,False
+Downtown,American,31.48,21,65,7,392,58,4.3,7149.0,109.99,True
+Downtown,Asian,26.54,14,139,10,899,47,4.1,11550.0,83.09,True
+Downtown,American,21.34,11,147,10,1112,53,5.0,20224.0,137.58,True
+Downtown,American,22.52,8,146,11,1530,46,3.5,18556.0,127.09,False
+Residential,Italian,20.19,10,120,8,259,41,3.7,8243.0,68.69,False
+Downtown,Asian,19.75,7,46,13,513,48,5.0,15465.0,336.2,True
+Suburban,American,18.68,21,94,7,1799,51,2.3,3699.0,39.35,False
+Tourist Area,Italian,40.51,23,121,11,259,47,4.0,13170.0,108.84,False
+Tourist Area,Italian,23.91,5,118,11,2261,45,4.7,7367.0,62.43,True
+Business District,Mediterranean,19.83,20,59,7,162,38,4.5,5865.0,99.4,True
+Business District,American,15.73,18,143,3,1184,60,3.6,8258.0,57.75,False
+Downtown,Fast Food,8.0,22,52,13,11,49,3.9,10373.0,199.49,False
+Downtown,Asian,29.7,22,144,14,52,67,3.7,15036.0,104.42,True
+Suburban,Asian,20.47,19,92,5,1021,53,5.0,6912.0,75.13,True
+Residential,Mexican,21.73,22,119,8,171,52,5.0,8166.0,68.62,False
+Suburban,Italian,23.92,9,94,10,4,45,3.8,7273.0,77.38,True
+Residential,American,19.48,14,111,4,1420,47,3.5,11209.0,100.98,False
+Suburban,Fast Food,8.0,16,113,1,211,60,5.0,7388.0,65.38,True
+Suburban,Italian,22.84,5,117,13,45,48,4.4,5952.0,50.87,True
+Business District,Mexican,26.19,24,138,8,159,49,4.9,10340.0,74.93,True
+Downtown,American,23.3,11,70,4,352,57,4.4,17912.0,255.89,True
+Tourist Area,American,12.95,7,108,5,301,64,4.6,10690.0,98.99,True
+Tourist Area,Italian,30.37,9,91,12,400,57,4.1,13097.0,143.92,False
+Suburban,Mexican,16.23,11,96,1,662,48,3.5,7562.0,78.77,False
+Downtown,Asian,26.9,12,43,4,453,44,3.1,15086.0,350.84,False
+Suburban,Asian,19.58,17,84,10,238,59,3.9,11502.0,136.93,True
+Tourist Area,American,19.65,10,42,12,122,48,4.1,9700.0,230.96,False
+Tourist Area,Mexican,27.59,22,50,11,789,51,4.1,7441.0,148.81,False
+Suburban,Mediterranean,19.03,19,65,6,438,40,4.7,3000.0,46.15,True
+Downtown,Fast Food,8.0,18,96,7,1629,48,2.7,19476.0,202.87,False
+Suburban,Mexican,18.17,15,85,8,810,40,5.0,8349.0,98.22,True
+Business District,Italian,21.1,5,145,2,948,33,5.0,8390.0,57.86,True
+Business District,Asian,28.04,20,84,9,831,48,3.8,10101.0,120.25,False
+Suburban,Italian,13.27,18,87,7,1288,47,4.0,8198.0,94.23,True
+Suburban,Asian,21.08,11,68,5,1020,53,3.8,11989.0,176.3,False
+Suburban,Mexican,19.36,22,71,1,1206,45,4.3,7230.0,101.83,True
+Business District,Mediterranean,21.95,13,98,3,182,61,3.9,7868.0,80.28,False
+Downtown,American,23.44,11,75,13,613,45,3.9,22305.0,297.4,True
+Downtown,Italian,16.03,10,30,14,479,52,2.0,12750.0,425.01,False
+Business District,Asian,15.97,19,132,7,747,54,4.7,6663.0,50.48,True
+Residential,American,11.02,22,58,1,6684,47,5.0,9066.0,156.31,False
+Suburban,American,20.55,18,78,13,156,44,4.7,9878.0,126.64,True
+Downtown,Italian,14.49,13,123,4,331,57,3.7,15248.0,123.97,True
+Business District,Italian,25.83,24,38,7,407,49,3.7,7973.0,209.82,True
+Suburban,Italian,12.47,6,42,12,902,37,5.0,10887.0,259.22,True
+Suburban,American,18.28,9,97,12,129,59,3.1,11517.0,118.74,False
+Downtown,American,37.99,14,30,6,139,50,4.5,15427.0,514.23,False
+Suburban,Mediterranean,33.43,21,94,6,4195,57,3.8,7075.0,75.26,False
+Business District,American,19.76,5,126,7,2746,59,3.4,8065.0,64.01,False
+Business District,American,33.44,22,56,12,22,44,3.5,8260.0,147.5,False
+Tourist Area,Mexican,16.49,13,142,4,1218,55,4.7,14659.0,103.23,True
+Downtown,Asian,28.34,23,100,11,635,59,4.7,10424.0,104.24,True
+Downtown,Asian,24.71,18,117,13,5261,40,3.6,12120.0,103.59,True
+Tourist Area,Mexican,18.22,20,81,6,883,61,4.9,11058.0,136.51,True
+Downtown,Mediterranean,35.13,22,135,2,2519,51,5.0,16002.0,118.53,True
+Downtown,Italian,31.7,19,77,8,983,47,4.2,12859.0,167.0,False
+Business District,Mexican,29.65,5,118,2,1656,64,4.0,7660.0,64.92,False
+Residential,Asian,23.55,16,88,1,2175,45,2.8,8725.0,99.15,True
+Suburban,Italian,14.55,13,116,1,279,46,5.0,6081.0,52.42,True
+Downtown,Asian,16.39,7,97,4,822,57,3.2,15626.0,161.1,True
+Suburban,Fast Food,11.35,23,105,4,649,48,4.1,9404.0,89.56,True
+Residential,Fast Food,8.0,8,123,14,1336,49,4.3,8560.0,69.6,False
+Business District,Mediterranean,36.41,11,42,14,476,56,4.5,8659.0,206.18,False
+Suburban,Italian,22.39,24,132,9,406,45,3.3,9766.0,73.98,False
+Tourist Area,Fast Food,10.7,6,105,11,171,41,4.1,12515.0,119.19,True
+Suburban,American,10.11,22,95,9,974,42,3.7,9654.0,101.62,False
+Suburban,Italian,17.48,12,124,4,850,48,3.8,7892.0,63.65,True
+Tourist Area,Mediterranean,24.24,11,133,6,2068,46,5.0,15319.0,115.18,True
+Downtown,American,16.01,7,69,9,136,61,3.8,15216.0,220.52,False
+Business District,Mexican,19.36,13,52,11,2407,62,4.5,10039.0,193.06,False
+Suburban,Asian,23.96,18,95,11,1190,44,4.8,6618.0,69.66,True
+Downtown,Italian,20.85,15,72,14,1296,39,5.0,12605.0,175.07,True
+Tourist Area,American,18.44,13,75,7,516,48,4.0,11094.0,147.92,True
+Downtown,Italian,18.6,10,36,1,3593,37,5.0,13861.0,385.03,False
+Business District,American,11.8,12,102,13,1444,52,3.8,7191.0,70.5,False
+Tourist Area,American,12.28,10,80,5,392,55,4.3,8119.0,101.49,False
+Downtown,Asian,16.45,22,89,2,3884,57,4.4,16583.0,186.32,True
+Suburban,Italian,19.64,11,59,7,2259,44,3.5,7086.0,120.1,False
+Business District,Mexican,30.79,5,48,7,396,62,5.0,6532.0,136.09,True
+Suburban,Italian,16.41,14,74,1,955,39,3.4,11013.0,148.82,False
+Suburban,Italian,16.69,21,101,1,1334,54,3.5,9251.0,91.59,True
+Suburban,American,19.44,22,62,7,792,44,4.9,10013.0,161.5,False
+Tourist Area,Asian,25.47,10,132,8,427,52,3.8,8173.0,61.92,True
+Suburban,Mediterranean,31.05,23,82,10,575,53,4.1,6803.0,82.97,True
+Residential,Mediterranean,18.43,12,93,5,176,45,4.8,6704.0,72.09,True
